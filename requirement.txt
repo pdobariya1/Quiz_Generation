@@ -1,0 +1,14 @@
+pandas
+numpy
+openai
+langchain
+langchain-community
+huggingface-hub
+langchain-huggingface
+streamlit
+PyPDF2
+python-dotenv
+ipykernel
+setuptools
+langchain_google_genai
+-e .
