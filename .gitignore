@@ -160,3 +160,6 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+# Secrets
+spheric-shield-442613-b6-f9df1a08a88c.json
