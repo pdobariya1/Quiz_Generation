@@ -162,7 +162,7 @@ cython_debug/
 #.idea/
 
 # Secrets
-spheric-shield-442613-b6-f9df1a08a88c.json
+.*.json
 
 # Logs
 logs

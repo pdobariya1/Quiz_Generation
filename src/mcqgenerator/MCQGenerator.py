@@ -6,7 +6,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 
 
 # Access credentials for model
-credentials_path = r"/home/petpooja-739/Learning/Quiz_Generation/spheric-shield-442613-b6-f9df1a08a88c.json"
+credentials_path = "./.credential.json"
 CREDENTIALS = service_account.Credentials.from_service_account_file(credentials_path)
 
 

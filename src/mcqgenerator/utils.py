@@ -2,8 +2,6 @@ import json
 import PyPDF2
 import traceback
 
-from src.mcqgenerator.logger import logging
-
 
 def read_file(file):
     if file.name.endswith(".pdf"):
