@@ -15,7 +15,7 @@ This project generates multiple-choice question (MCQ) quizzes from uploaded text
 
 ## Setup
 
-1. **Clone the Repository:**  `git clone <repository_url>`
+1. **Clone the Repository:**  `git clone https://github.com/pdobariya1/Quiz_Generation.git`
 2. **Install Dependencies:**  `pip install -r requirements.txt`
 3. **Google Cloud Setup:**
    * Create a Google Cloud project and enable the Generative AI API.
